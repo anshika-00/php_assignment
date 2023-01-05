@@ -1,0 +1,13 @@
+/*This is for h1  styling*/
+h1  {
+    color: #009;
+    font-size: 1em;
+    margin-bottom: .3em;
+    text-align: center;
+    text-decoration: underline;
+  }
+/*this is for table styling*/
+  table {
+    margin: .3em;/*comment here*/
+    width: 290px;
+  }
